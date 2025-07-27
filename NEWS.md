@@ -1,5 +1,5 @@
-# Microsoft investigates outage affecting Microsoft 365 admin center
+# The role of the cybersecurity PM in incident-driven development
 
-**Published on:** Fri, 25 Jul 2025 14:49:49 -0400
+**Published on:** Fri, 25 Jul 2025 10:01:11 -0400
 
-[Read more](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/)
+[Read more](https://www.bleepingcomputer.com/news/security/the-role-of-the-cybersecurity-pm-in-incident-driven-development/)
