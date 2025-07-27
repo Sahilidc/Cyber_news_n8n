@@ -1,5 +1,5 @@
-# Woman gets 8 years for aiding North Koreans infiltrate 300 US firms
+# Hacker News Front Page: July 25, 2025
 
-**Published on:** Fri, 25 Jul 2025 07:41:01 -0400
+**Published on:** Sat, 26 Jul 2025 14:00:50 GMT
 
-[Read more](https://www.bleepingcomputer.com/news/security/us-woman-sentenced-to-8-years-in-prison-for-running-laptop-farm-helping-north-koreans-infiltrate-300-firms/)
+[Read more](https://news.ycombinator.com/front?day=2025-07-25)
