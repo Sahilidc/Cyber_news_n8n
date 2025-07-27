@@ -1,3 +1,3 @@
-The role of the cybersecurity PM in incident-driven development
-Fri, 25 Jul 2025 10:01:11 -0400
-https://www.bleepingcomputer.com/news/security/the-role-of-the-cybersecurity-pm-in-incident-driven-development/
+US sanctions North Korean firm, nationals behind IT worker schemes
+Fri, 25 Jul 2025 08:40:51 -0400
+https://www.bleepingcomputer.com/news/security/us-sanctions-north-korean-firm-nationals-behind-it-worker-schemes/
