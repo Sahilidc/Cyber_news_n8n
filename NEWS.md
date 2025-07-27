@@ -1,3 +1,5 @@
-Hacker News Front Page: July 25, 2025
-Sat, 26 Jul 2025 14:00:50 GMT
-https://news.ycombinator.com/front?day=2025-07-25
+# Phishers Target Aviation Execs to Scam Customers
+
+**Published on:** Thu, 24 Jul 2025 17:57:06 +0000
+
+[Read more](https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/)
