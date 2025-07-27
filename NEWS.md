@@ -1,5 +1,5 @@
-# Phishers Target Aviation Execs to Scam Customers
+# Microsoft Fix Targets Attacks on SharePoint Zero-Day
 
-**Published on:** Thu, 24 Jul 2025 17:57:06 +0000
+**Published on:** Mon, 21 Jul 2025 14:45:46 +0000
 
-[Read more](https://krebsonsecurity.com/2025/07/phishers-target-aviation-execs-to-scam-customers/)
+[Read more](https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/)
