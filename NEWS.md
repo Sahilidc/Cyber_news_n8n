@@ -1,3 +1,3 @@
-DOGE Denizen Marko Elez Leaked API Key for xAI
-Tue, 15 Jul 2025 01:23:43 +0000
-https://krebsonsecurity.com/2025/07/doge-denizen-marko-elez-leaked-api-key-for-xai/
+Allianz Life confirms data breach impacts majority of 1.4 million customers
+Sat, 26 Jul 2025 14:00:55 -0400
+https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/
