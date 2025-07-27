@@ -1,3 +1,3 @@
-Allianz Life confirms data breach impacts majority of 1.4 million customers
-Sat, 26 Jul 2025 14:00:55 -0400
-https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/
+Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks
+Sat, 26 Jul 2025 10:17:39 -0400
+https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/
