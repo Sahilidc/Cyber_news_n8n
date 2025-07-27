@@ -1,5 +1,5 @@
-# Microsoft Fix Targets Attacks on SharePoint Zero-Day
+# Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai
 
-**Published on:** Mon, 21 Jul 2025 14:45:46 +0000
+**Published on:** Fri, 18 Jul 2025 01:23:20 +0000
 
-[Read more](https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/)
+[Read more](https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/)
